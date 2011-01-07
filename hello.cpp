@@ -4,6 +4,7 @@
 
 main()
 {
+  cout << "pre hello world thing" << endl;
  cout << "Hello World" << endl;
 
 //	`endl' - new line
@@ -12,11 +13,21 @@ main()
 	{
 
 	}
+
  cout << "After While" << endl;
 }
 
 void someothervoidfunction ()
 {
  cout << "I am some other void function" << en
+
+
+  
+}
+
+void somefunction()
+{
+
+
 }
 
