@@ -38,3 +38,8 @@ float floatreturn()
 return 0;
 }
 
+int blubblub ()
+{
+return 1;
+}
+
