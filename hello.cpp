@@ -31,3 +31,10 @@ void somefunction()
 
 }
 
+
+
+float floatreturn()
+{
+return 0;
+}
+
