@@ -4,6 +4,7 @@
 
 main()
 {
+  cout << "pre hello world thing" << endl;
  cout << "Hello World" << endl;
 
 //	`endl' - new line
@@ -12,5 +13,12 @@ main()
 	{
 
 	}
+
+  
+}
+
+void somefunction()
+{
+
 }
 
