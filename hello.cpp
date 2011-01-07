@@ -15,3 +15,8 @@ main()
  cout << "After While" << endl;
 }
 
+void someothervoidfunction ()
+{
+ cout << "I am some other void function" << en
+}
+
