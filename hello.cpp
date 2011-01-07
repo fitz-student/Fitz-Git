@@ -17,6 +17,13 @@ main()
   
 }
 
+bool machnixfkt ()
+{
+return 1;
+}
+
+
+
 void somefunction()
 {
 
